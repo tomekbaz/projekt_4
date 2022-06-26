@@ -1,0 +1,56 @@
+Sobota 25.06.2022 7:14:08 :  * Uruchomienie programu *
+Sobota 25.06.2022 7:14:08 :  --- BLAD! Brak argumentow programu (wymagane 2)
+Sobota 25.06.2022 7:14:08 :  Zakonczenie programu
+
+Niedziela 26.06.2022 9:54:27 :  * Uruchomienie programu *
+Niedziela 26.06.2022 9:54:27 :  --- BLAD! Nieprawidlowa ilosc argumentow programu
+                                     (1; wymagane 2)
+Niedziela 26.06.2022 9:54:27 :  Zakonczenie programu
+
+Niedziela 26.06.2022 10:42:40 :  * Uruchomienie programu *
+Niedziela 26.06.2022 10:42:40 :  --- BLAD! Nieprawidlowa ilosc argumentow programu
+                                     (3; wymagane 2)
+Niedziela 26.06.2022 10:42:40 :  Zakonczenie programu
+
+Niedziela 26.06.2022 10:43:13 :  * Uruchomienie programu *
+Niedziela 26.06.2022 10:43:13 :  --- BLAD! Nazwy plikow do porownania sa takie same
+Niedziela 26.06.2022 10:43:13 :  Zakonczenie programu
+
+Niedziela 26.06.2022 10:45:26 :  * Uruchomienie programu *
+Niedziela 26.06.2022 10:45:26 :  --- BLAD! Nie dalo sie otworzyc
+                                     pierwszego pliku - "test1.txt"
+Niedziela 26.06.2022 10:45:26 :  Zakonczenie programu
+
+Niedziela 26.06.2022 10:45:50 :  * Uruchomienie programu *
+Niedziela 26.06.2022 10:45:50 :  Otwarcie pierwszego pliku - "test1.txt"
+Niedziela 26.06.2022 10:45:50 :  --- BLAD! Nie dalo sie otworzyc
+                                     drugiego pliku - "test2.txt"
+Niedziela 26.06.2022 10:45:50 :  Zamkniecie pierwszego pliku
+Niedziela 26.06.2022 10:45:50 :  Zakonczenie programu
+
+Niedziela 26.06.2022 10:46:29 :  * Uruchomienie programu *
+Niedziela 26.06.2022 10:46:29 :  Otwarcie pierwszego pliku - "test1.txt"
+Niedziela 26.06.2022 10:46:29 :  Otwarcie drugiego pliku - "test2.txt"
+Niedziela 26.06.2022 10:46:29 :  --- BLAD! Pliki maja rozna dlugosc
+Niedziela 26.06.2022 10:46:29 :  Zamkniecie plikow
+Niedziela 26.06.2022 10:46:29 :  Zakonczenie programu
+
+Niedziela 26.06.2022 10:46:57 :  * Uruchomienie programu *
+Niedziela 26.06.2022 10:46:57 :  Otwarcie pierwszego pliku - "testP1.txt"
+Niedziela 26.06.2022 10:46:57 :  Otwarcie drugiego pliku - "testP2.txt"
+Niedziela 26.06.2022 10:46:57 :  --- BLAD! Pliki sa puste
+Niedziela 26.06.2022 10:46:57 :  Zamkniecie plikow
+Niedziela 26.06.2022 10:46:57 :  Zakonczenie programu
+
+Niedziela 26.06.2022 11:17:58 :  * Uruchomienie programu *
+Niedziela 26.06.2022 11:17:58 :  Otwarcie pierwszego pliku - "testA.txt"
+Niedziela 26.06.2022 11:17:58 :  Otwarcie drugiego pliku - "testB.txt"
+Niedziela 26.06.2022 11:17:58 :  Rozpoczecie porownywania plikow
+Niedziela 26.06.2022 11:17:58 :  Zakonczenie porownywania plikow
+                                     Porownanych bitow:  9 600
+                                     Roznych bitow:      1 700
+                                     Bit error rate (BER):  17.7083333 %
+                                     Czas porownywania plikow:  0 ms
+Niedziela 26.06.2022 11:17:58 :  Zamkniecie plikow
+Niedziela 26.06.2022 11:17:58 :  Zakonczenie programu
+
